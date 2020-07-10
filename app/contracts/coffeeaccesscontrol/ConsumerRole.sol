@@ -33,7 +33,7 @@ contract ConsumerRole {
     }
 
     // Define a function 'renounceConsumer' to renounce this role
-    function renounceConsumer() public {
+    function renounceConsumer() public onlyConsumer() {
         _removeConsumer(msg.sender);
     }
 

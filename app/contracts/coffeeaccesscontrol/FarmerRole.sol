@@ -36,7 +36,7 @@ contract FarmerRole {
   }
 
   // Define a function 'renounceFarmer' to renounce this role
-  function renounceFarmer() public {
+  function renounceFarmer() public onlyFarmer() {
     _removeFarmer(msg.sender);
   }
 
