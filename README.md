@@ -20,3 +20,5 @@ In this project I created a DApp supply chain solution backed by the Ethereum pl
 * **Web3**: v1.2.1
 
 ## Usage
+
+[!](screenshots/Transaction_History.png)
