@@ -21,4 +21,4 @@ In this project I created a DApp supply chain solution backed by the Ethereum pl
 
 ## Usage
 
-![](screenshots/Transaction_History.png)
+![](screenshots/Transaction_History.PNG)
