@@ -5,11 +5,11 @@ In this project I created a DApp supply chain solution backed by the Ethereum pl
 
 | Contract Name | Contract Address|
 |:--------------|:----------------|
-|FarmerRole|0x1FC9954E0bf513f5B832D9839C301cC76fc0b7Aa|
-|DistributorRole|0xc74a9dee1178a342b4Da37BdF41bFe76DfF64Ef0|
-|RetailerRole|0xc74a9dee1178a342b4Da37BdF41bFe76DfF64Ef0|
-|ConsumerRole|0x1c3C32F81068782Cf30cC054Dad22475A9Adf347
-|SupplyChain|0x8Cc6cf3F86050166F51ceC604aed2926a969Acae|
+|FarmerRole|0x456796022058Ac77cE362Fe5B31A63e4c278F214|
+|DistributorRole|0xE7Baa9510d3F8c114847DA66aa8E993D159dC46E|
+|RetailerRole|0x275F03423f0453dcc2cf290D2a00D0C138b867C3|
+|ConsumerRole|0x935C7B1dEB7b751E22D096867be3619B6bac293F
+|SupplyChain|0x356167932B271B43d0B2443A1c5603604adE2059|
 
 ## Libraries
 * ```truffle-hdwallet-provider``` was used in order to sign transactions for addresses derived from a 12-word mnemonic.
@@ -18,3 +18,5 @@ In this project I created a DApp supply chain solution backed by the Ethereum pl
 * **Node**: v12.18.1
 * **Truffle**: v5.1.14-nodeLTS.0 (core: 5.1.13)
 * **Web3**: v1.2.1
+
+## Usage
