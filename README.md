@@ -21,4 +21,18 @@ In this project I created a DApp supply chain solution backed by the Ethereum pl
 
 ## Usage
 
+### Product Overview
+To fetch data related to the given item (item's SKU and UPC, owner's ID, original farmer's ID etc.) you can use either of the two _Fetch Data_ options.
+![](screenshots/Product_Overview.PNG)
+
+### Farm Details
+In order, as a farmer, to harverst, process, pack, sell your beans you need to input the requested data/info in this section of our DAPP.
+![](screenshots/Farm_Details.PNG)
+
+### Product Details
+If you are a _Distributor_ or a _Retailer_ this section is for you. Here you can buy and ship (as a retailer) the beans and purchase, as well receive them (as a retailer).
+![](screenshots/Product_Details.PNG)
+
+### Transaction History
+In this section of our DApp, you have a complete history of all the transactions.
 ![](screenshots/Transaction_History.PNG)
